@@ -1,3 +1,4 @@
 # Fun-With-Numbers
 This project contain some games.
-WHich you can play...👍😎
+Which you can play...👍😎
+This project is made using javascript,html and css.
